@@ -1,0 +1,23 @@
+@import "null.css";
+
+h1 {
+color: brown;
+}
+ul {
+	color: chartreuse;
+}
+span {
+	color: yellow;
+}
+p {
+	color: red;
+}
+nav h2 {
+	color: blue;
+}
+main h2 {
+	color: #0792f4;
+}
+ol {
+	color: darkred;
+}
